@@ -35,8 +35,9 @@
 
 ### 📊 GitHub Stats:
 
-  <a href="https://github.com/jonah-code
-">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonaspeixoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonaspeixoto&layout=compact&langs_count=7&theme=dracula"/>
-
+<div align="center">
+  <a href="https://github.com/jonaspeixoto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonaspeixoto&show_icons=true&theme=dracula&border_radius=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonaspeixoto&langs_count=5&theme=dracula"/>
+  </a>
+</div>
